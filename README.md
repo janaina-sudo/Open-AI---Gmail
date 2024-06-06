@@ -34,7 +34,7 @@ Para que sua assistente tenha acesso aos emails do gmail é necessário que voc�
 
 Para clonar este repositório com o projeto execute o seguinte comando abaixo.
 ```
-> git clone https://Roma4160@bitbucket.org/helioasmoura/iot-digital-gemini-dashboard.git
+> git clone https://github.com/janaina-sudo/Open-AI-Gmail.git
 
 ```
 Em seguida, crie um ambiente virtual para instalar as dependencias necessárias para executar o projeto.
